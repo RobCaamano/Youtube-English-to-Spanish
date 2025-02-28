@@ -1,4 +1,4 @@
-# Foreign-Whispers
+# Youtube-English-to-Spanish
 
 ## Sections
 
@@ -10,7 +10,7 @@
 
 ## About <a id="about"></a>
 
-Foreign Whispers is a tool designed to transform your video content by adding both spoken and written subtitles in Spanish, all while replicating the original voices. This powerful application harnesses cutting-edge AI technologies to provide a seamless and engaging viewing experience for diverse audiences.
+Youtube-English-to-Spanish is a tool designed to transform your video content by adding both spoken and written subtitles in Spanish, all while replicating the original voices. This powerful application harnesses cutting-edge AI technologies to provide a seamless and engaging viewing experience for diverse audiences.
 
 - **Youtube Video Download:** Automatically downloads YouTube videos to use as input for subtitle and voice replication, making the process straightforward and efficient.
 
@@ -57,7 +57,7 @@ Before running the script, ensure you have Python installed on your machine. You
 1. Clone the repository to your local machine
 
 ```
-git clone https://github.com/RobCaamano/foreign-whispers.git
+git clone https://github.com/RobCaamano/Youtube-English-to-Spanish.git
 ```
 
 2. Navigate to the project directory and download 'requirements.txt'. It is recommended to do this in a virtual environment. For information about creating and using conda environments, visit their [site](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html).
